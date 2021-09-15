@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/innovexiaTask/static/css/main.d9375009.chunk.css",
+    "main.js": "/innovexiaTask/static/js/main.2a58c3c8.chunk.js",
+    "main.js.map": "/innovexiaTask/static/js/main.2a58c3c8.chunk.js.map",
+    "runtime-main.js": "/innovexiaTask/static/js/runtime-main.79bce5f8.js",
+    "runtime-main.js.map": "/innovexiaTask/static/js/runtime-main.79bce5f8.js.map",
+    "static/css/2.45c70989.chunk.css": "/innovexiaTask/static/css/2.45c70989.chunk.css",
+    "static/js/2.0ef1afc7.chunk.js": "/innovexiaTask/static/js/2.0ef1afc7.chunk.js",
+    "static/js/2.0ef1afc7.chunk.js.map": "/innovexiaTask/static/js/2.0ef1afc7.chunk.js.map",
+    "static/js/3.06d768d2.chunk.js": "/innovexiaTask/static/js/3.06d768d2.chunk.js",
+    "static/js/3.06d768d2.chunk.js.map": "/innovexiaTask/static/js/3.06d768d2.chunk.js.map",
+    "index.html": "/innovexiaTask/index.html",
+    "static/css/2.45c70989.chunk.css.map": "/innovexiaTask/static/css/2.45c70989.chunk.css.map",
+    "static/css/main.d9375009.chunk.css.map": "/innovexiaTask/static/css/main.d9375009.chunk.css.map",
+    "static/js/2.0ef1afc7.chunk.js.LICENSE.txt": "/innovexiaTask/static/js/2.0ef1afc7.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/innovexiaTask/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79bce5f8.js",
+    "static/css/2.45c70989.chunk.css",
+    "static/js/2.0ef1afc7.chunk.js",
+    "static/css/main.d9375009.chunk.css",
+    "static/js/main.2a58c3c8.chunk.js"
+  ]
+}
